@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianCarNumberCheck", "RussianCarNumberCheck\RussianCarNumberCheck.csproj", "{12089B3F-FAA0-4BFA-B149-A4E9C640A6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRissiaCarNumberCheck", "..\UnitTestRissiaCarNumberCheck\UnitTestRissiaCarNumberCheck\UnitTestRissiaCarNumberCheck.csproj", "{3D35FCAC-F4CB-4DFA-9B55-3FBC387A62D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12089B3F-FAA0-4BFA-B149-A4E9C640A6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12089B3F-FAA0-4BFA-B149-A4E9C640A6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12089B3F-FAA0-4BFA-B149-A4E9C640A6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12089B3F-FAA0-4BFA-B149-A4E9C640A6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D35FCAC-F4CB-4DFA-9B55-3FBC387A62D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D35FCAC-F4CB-4DFA-9B55-3FBC387A62D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D35FCAC-F4CB-4DFA-9B55-3FBC387A62D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D35FCAC-F4CB-4DFA-9B55-3FBC387A62D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC67D743-2A50-4DDF-B9B4-406C0E4E4A2F}
+	EndGlobalSection
+EndGlobal

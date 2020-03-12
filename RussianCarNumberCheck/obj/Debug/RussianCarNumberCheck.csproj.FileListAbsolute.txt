@@ -1,0 +1,6 @@
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\bin\Debug\RussianCarNumberCheck.dll
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\bin\Debug\RussianCarNumberCheck.pdb
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\obj\Debug\RussianCarNumberCheck.csprojAssemblyReference.cache
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\obj\Debug\RussianCarNumberCheck.csproj.CoreCompileInputs.cache
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\obj\Debug\RussianCarNumberCheck.dll
+F:\УП (01-04) теперь 06\myCalc\RussianCarNumberCheck\RussianCarNumberCheck\obj\Debug\RussianCarNumberCheck.pdb
